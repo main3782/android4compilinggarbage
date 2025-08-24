@@ -129,7 +129,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="6f026b0fbc776b833566002e1d775c91f33de1ca"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="215e90fc1d787b33104cb090d327814c8f32aa9d"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="cfd23fde40cf0cb600dd8a09563ff8fe3e5f9c0a"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="7207645766b118ef18081363bb58e39d3e715c2f"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="a15ab452e6a7603fb289666177aa13e5e4803d18"/>
