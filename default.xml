@@ -18,7 +18,7 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="b354f6abda00461eae4cb0215faa8b5a7268e275"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="179b2d989532afe14a88d57c3d1533b8cfe76cb9"/>
-  <project name="platform/cts" path="cts" revision="b33836e71dd4e961081b9e845ba4b0031f25a067"/>
+  <project name="platform/cts" path="cts" revision="f4bec7392d3b487ac33c4d90e2a3ba1e957abf17"/>
   <project name="platform/dalvik" path="dalvik" revision="4dd60e2c7f9551a3d027fefd2cac5eb3dce9f844"/>
   <project name="platform/development" path="development" revision="9df3fc14d2ac29c2552be05b7f6d7a5ba075514c"/>
   <project name="device/common" path="device/common" revision="1a9cdef0da77a6ff18cad00875e41596821e55a7"/>
