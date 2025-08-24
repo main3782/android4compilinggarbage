@@ -18,9 +18,9 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="b354f6abda00461eae4cb0215faa8b5a7268e275"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="179b2d989532afe14a88d57c3d1533b8cfe76cb9"/>
-  <project name="platform/cts" path="cts" revision="f4bec7392d3b487ac33c4d90e2a3ba1e957abf17"/>
+  <project name="platform/cts" path="cts" revision="b33836e71dd4e961081b9e845ba4b0031f25a067"/>
   <project name="platform/dalvik" path="dalvik" revision="4dd60e2c7f9551a3d027fefd2cac5eb3dce9f844"/>
-  <project name="platform/development" path="development" revision="5ed0345c49dae737fd5025da484bbdaab31dac80"/>
+  <project name="platform/development" path="development" revision="9df3fc14d2ac29c2552be05b7f6d7a5ba075514c"/>
   <project name="device/common" path="device/common" revision="1a9cdef0da77a6ff18cad00875e41596821e55a7"/>
   <!-- fully optional!!! i'm only adding this because i own a Galaxy Nexus and want to try this lol - Mainnn -->
   <project name="device/samsung/tuna" path="device/samsung/tuna" revision="a80f91a32d2decad24cf8175c2fcda1992985d10"/>
@@ -122,14 +122,14 @@
   <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
   <project name="platform/external/v8" path="external/v8" revision="df5bff59602802b769e994b0dc1d8869a27fa40c"/>
   <project name="platform/external/valgrind" path="external/valgrind" revision="db2b85ac6df2716e3ae85cccc29eefafa6b5d047"/>
-  <project name="platform/external/webkit" path="external/webkit" revision="ed1aaa7d1c69a85e4c93cec1dbe111554bb34642"/>
+  <project name="platform/external/webkit" path="external/webkit" revision="8b8e0317b9dc035ae96cba7eb3a10dfba3c0c172"/>
   <project name="platform/external/webp" path="external/webp" revision="9aea642eefa7a641ab8b89d953251939221d2719"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="92202cf7a2e615b65e892aa8f633b469ddcb522e"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="eee21e1de8514a43f3e9089c136e7e27cc27a9fc"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="8c4da95f6b95f3ce07485ac4e4e7640c32d2e326"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="6f026b0fbc776b833566002e1d775c91f33de1ca"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="cfd23fde40cf0cb600dd8a09563ff8fe3e5f9c0a"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="7207645766b118ef18081363bb58e39d3e715c2f"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="a15ab452e6a7603fb289666177aa13e5e4803d18"/>
@@ -164,7 +164,7 @@
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="a853d2b914144dd1f2ff3f03170f67d74338815d"/>
   <project name="platform/packages/apps/Provision" path="packages/apps/Provision" revision="f31b933a8aebf07e3feb512ac650c5691c8c5e0f"/>
   <project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="e2814a46fdbdc8eee7c5e6aa2b0cc8e6e4ea1ec6"/>
-  <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="d9cf43b179d99ede828cd5feea390219ba91aafe"/>
+  <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="df92f2e1e29474f7bb059dac5c650c4482b7bbe1"/>
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="0508261c0f215eaa82a161158404cb317727b3f8"/>
   <project name="platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project name="platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
@@ -198,4 +198,5 @@
   <project name="platform/system/media" path="system/media" revision="cd422d88f508397adf8f6b492a82f0d9baee5b88"/>
   <project name="platform/system/netd" path="system/netd" revision="8cd1bc2c5f2033e29d036210dfe5cb07666d0850"/>
   <project name="platform/system/vold" path="system/vold" revision="cf5af171190c26f62f23d45d0c653a4137b1b291"/>
+
 </manifest>
