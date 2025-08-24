@@ -20,7 +20,7 @@
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="179b2d989532afe14a88d57c3d1533b8cfe76cb9"/>
   <project name="platform/cts" path="cts" revision="f4bec7392d3b487ac33c4d90e2a3ba1e957abf17"/>
   <project name="platform/dalvik" path="dalvik" revision="4dd60e2c7f9551a3d027fefd2cac5eb3dce9f844"/>
-  <project name="platform/development" path="development" revision="9df3fc14d2ac29c2552be05b7f6d7a5ba075514c"/>
+  <project name="platform/development" path="development" revision="5ed0345c49dae737fd5025da484bbdaab31dac80"/>
   <project name="device/common" path="device/common" revision="1a9cdef0da77a6ff18cad00875e41596821e55a7"/>
   <!-- fully optional!!! i'm only adding this because i own a Galaxy Nexus and want to try this lol - Mainnn -->
   <project name="device/samsung/tuna" path="device/samsung/tuna" revision="a80f91a32d2decad24cf8175c2fcda1992985d10"/>
