@@ -19,11 +19,9 @@
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="b354f6abda00461eae4cb0215faa8b5a7268e275"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="179b2d989532afe14a88d57c3d1533b8cfe76cb9"/>
   <project name="platform/cts" path="cts" revision="f4bec7392d3b487ac33c4d90e2a3ba1e957abf17"/>
-  <project name="platform/dalvik" path="dalvik" revision="735b947c953f0e3a86090bb72c90ec423b7b201e"/>
+  <project name="platform/dalvik" path="dalvik" revision="4dd60e2c7f9551a3d027fefd2cac5eb3dce9f844"/>
   <project name="platform/development" path="development" revision="9df3fc14d2ac29c2552be05b7f6d7a5ba075514c"/>
   <project name="device/common" path="device/common" revision="1a9cdef0da77a6ff18cad00875e41596821e55a7"/>
-  <!-- fully optional!!! i'm only adding this because i own a Galaxy Nexus and want to try this lol - Mainnn -->
-  <project name="device/samsung/tuna" path="device/samsung/tuna" revision="a80f91a32d2decad24cf8175c2fcda1992985d10"/>
   <project name="platform/external/android-mock" path="external/android-mock" revision="40bb73886c61d4b2e96bab98b50c1cbfcb54d9a3"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="81d5133bb7843bc65c5321e53f5017ce2e4d13af"/>
   <project name="platform/external/apache-xml" path="external/apache-xml" revision="ceaebb19e578d6b24db33e471dde59261817affc"/>
@@ -140,7 +138,7 @@
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="54921de415cd91af21801115baa40e78fc4ea4be"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="eea19f1d855b9434313fbb9447a23caf8123aa58"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="e70d0c9c1b85a233608d85433a8dfc5dcb8441c9"/>
-  <project name="platform/libcore" path="libcore" revision="ae394a866dd86df8819b652dfe00b3d2c7ee204c"/>
+  <project name="platform/libcore" path="libcore" revision="51236bf3f42f234359ccbf1d09b41f7e09396889"/>
   <project name="platform/ndk" path="ndk" revision="dc191ed1682a166d776e1940b242875aa3181f8b"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="12de25a6f806848952d8c334a90c5884aba4690f"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="b6a11f97addec9f7a9fbc51a2fedd567b3d0a276"/>
@@ -193,7 +191,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="9e01dc0ed47b6deefb4b611693778a508ee4df07"/>
   <project name="platform/sdk" path="sdk" revision="9903001bb015bf4a11157fb36042f4711a9531b0"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="1890bf01833f6cab431f014af7a20fcbed3a4e13"/>
-  <project name="platform/system/core" path="system/core" revision="6f49d5f266dffee103a3af07a7f6266f405d2924"/>
+  <project name="platform/system/core" path="system/core" revision="6b54a6832f68a8378cd1e7ca620cf3c8824ac5fc"/>
   <project name="platform/system/extras" path="system/extras" revision="7c81ec40f5f466b23c2ebacabe1e4e9ac6932bd5"/>
   <project name="platform/system/media" path="system/media" revision="cd422d88f508397adf8f6b492a82f0d9baee5b88"/>
   <project name="platform/system/netd" path="system/netd" revision="8cd1bc2c5f2033e29d036210dfe5cb07666d0850"/>
