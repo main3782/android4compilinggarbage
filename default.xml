@@ -19,7 +19,7 @@
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="b354f6abda00461eae4cb0215faa8b5a7268e275"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="179b2d989532afe14a88d57c3d1533b8cfe76cb9"/>
   <project name="platform/cts" path="cts" revision="f4bec7392d3b487ac33c4d90e2a3ba1e957abf17"/>
-  <project name="platform/dalvik" path="dalvik" revision="4dd60e2c7f9551a3d027fefd2cac5eb3dce9f844"/>
+  <project name="platform/dalvik" path="dalvik" revision="e3548aeee710ac7962a2845237076c504b07c077"/>
   <project name="platform/development" path="development" revision="9df3fc14d2ac29c2552be05b7f6d7a5ba075514c"/>
   <project name="device/common" path="device/common" revision="1a9cdef0da77a6ff18cad00875e41596821e55a7"/>
   <!-- fully optional!!! i'm only adding this because i own a Galaxy Nexus and want to try this lol - Mainnn -->
@@ -122,7 +122,7 @@
   <project name="platform/external/tremolo" path="external/tremolo" revision="ef03ae17fcbd7474f839cc2fee27a58369cf41dd"/>
   <project name="platform/external/v8" path="external/v8" revision="df5bff59602802b769e994b0dc1d8869a27fa40c"/>
   <project name="platform/external/valgrind" path="external/valgrind" revision="db2b85ac6df2716e3ae85cccc29eefafa6b5d047"/>
-  <project name="platform/external/webkit" path="external/webkit" revision="01881a5c8bbf658641ca9da774be59ced88b2238"/>
+  <project name="platform/external/webkit" path="external/webkit" revision="de98e81621963c5e7cebd57680d558ecfab0c084"/>
   <project name="platform/external/webp" path="external/webp" revision="9aea642eefa7a641ab8b89d953251939221d2719"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="92202cf7a2e615b65e892aa8f633b469ddcb522e"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="eee21e1de8514a43f3e9089c136e7e27cc27a9fc"/>
