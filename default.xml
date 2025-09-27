@@ -254,6 +254,7 @@
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="78d2c69af4ab35ac6ae8e78fc3a61e7023a60769" />
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="67ba2276b9a5232685e14d416fea0b1250515594" />
   <!-- 4.0 RTM commit dont change -->
+  <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="b5a7f4e4771bbb16cb327b1315f03e0c4acdfb84" />
   <project name="platform/hardware/ril" path="hardware/ril" revision="fa8d584ca7984bf7d73ff37c7c2bc1e0dfa5fb71" />
   <project name="platform/libcore" path="libcore" revision="341667ceaa55a1f22c61aa49be82560d5dbe7929" />
   <project name="platform/ndk" path="ndk" revision="ca6ba8f863a79e1d3b403098e69710404c1cb2d8" />
