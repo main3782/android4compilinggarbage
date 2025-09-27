@@ -28,6 +28,7 @@
   <project name="device/common" path="device/common" revision="3a0f3d12b5a91bbd45c77b0c64a5d1d15bcdde46" />
   <!-- 4.0 RTM commit dont change -->
   <project name="device/generic/goldfish" path="device/generic/goldfish" revision="5feb8ecfd93c4e3c9eec89ab20dd143d05f7e91c" />
+  <project name="device/sample" path="device/sample" revision="e405766f306e1977f13a44171c1134085ba2ed23" />
   <project name="device/moto/stingray" path="device/moto/stingray" revision="c6cd2ae2c9a67de97ca515d95550caa36b99b39a" />
   <project name="device/moto/wingray" path="device/moto/wingray" revision="f404385aacc75f023ea68713d093833e42b035ac" />  
   <!-- 4.0 RTM commit dont change -->
