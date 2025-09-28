@@ -27,6 +27,7 @@
   <project name="platform/dalvik" path="dalvik" revision="f28000dc9b6f596921b1a4387746bea4c8cd207f" />
   <project name="platform/development" path="development" revision="051745043460b44fb5ea207dc36626aaa1736f3e" />
   <project name="device/common" path="device/common" revision="3a0f3d12b5a91bbd45c77b0c64a5d1d15bcdde46" />
+  <project name="device/sample" path="device/sample" revision="975a70f3ab375fc10d77dbb2f82658ff79cb7373" />
   <project name="device/moto/stingray" path="device/moto/stingray" revision="94da3c19166e5611cd718ac15ecc7691094b5d45" />
   <project name="device/moto/wingray" path="device/moto/wingray" revision="0b7b3258d10df1f95a261694adea12d3fa22d70a" />
   <!-- 4.0 RTM commit dont change -->
